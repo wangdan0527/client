@@ -1,0 +1,20 @@
+.root {
+  background-color: #f5f5f5 !important;
+}
+
+.modal-90w {
+  max-width: 90% !important;
+}
+
+.job-count {
+  font-weight: bold;
+}
+
+.search-container {
+  display: flex !important;
+}
+
+.search-bar {
+  border: none;
+  outline: none;
+}
